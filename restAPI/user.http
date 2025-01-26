@@ -6,8 +6,8 @@ Content-Type: application/json
 x-api-key: 3ba73ff48c21cd92f1f7fc1ce55e125f0bd176323da76c8abdfed7a79aeb56f6
 
 {
-    "user_name": "hitim",
-    "user_email": "hi.tim.gi.the@gmail.com",
+    "user_name": "thuandev",
+    "user_email": "thuan.truong.dev@gmail.com",
     "user_password": "123456"
 }
 
@@ -18,7 +18,7 @@ Content-Type: application/json
 x-api-key: {{api_key}}
 
 {
-    "user_email": "hi.tim.gi.the@gmail.com",
+    "user_email": "thuan.truong.dev@gmail.com",
     "user_password": "123456"
 }
 

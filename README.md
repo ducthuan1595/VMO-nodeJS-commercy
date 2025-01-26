@@ -49,6 +49,16 @@
 - ...
 
 
-### Run the project
-  `npm install` // install libraries
-  `npm start` // initial project
+* Create environment
+- Install node version@20+
+
+* Run the project
+- Install requires
+```
+npm install
+```
+
+- Run app
+```
+  npm run dev
+```
